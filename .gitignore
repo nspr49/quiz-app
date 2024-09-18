@@ -1,0 +1,5 @@
+quiz-app-fe/node_modules/
+quiz-app-fe/.envrc
+quiz-app-fe/.direnv/
+quiz-app-rest/.envrc
+quiz-app-rest/.direnv/
